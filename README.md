@@ -26,6 +26,7 @@ dotnet restore
 # Comando para rodar o app
 dotnet run
 
+```
 ### Tecnologias
 As seguintes linguagens e ferramentas foram usadas na construção do projeto:
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
